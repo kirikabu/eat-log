@@ -13,6 +13,8 @@
 
 ## 身体計測画像
 
+** 8月11日
+
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img width="4032" height="3024" alt="260811" src="https://github.com/user-attachments/assets/1f8503c5-b6b7-4dc6-97bf-8be85fd49551" />
   <img width="3024" height="4032" alt="260811" src="https://github.com/user-attachments/assets/245078cd-daa6-4387-b23c-a4fda6b21182" />
