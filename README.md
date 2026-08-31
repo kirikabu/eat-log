@@ -6,23 +6,20 @@
 * **朝**: 玄米 茶碗一杯、豆乳ヨーグルト メープルシロップ、鶏胸肉とブロッコリーの甘辛焼き、ハーブティー
   * **メモ**: ダルい、眠い
 * **おやつ**: おからケーキ、黒豆コーヒー豆乳ラテ
-  *   <img width="3024" height="4032" alt="IMG_1723" src="https://github.com/user-attachments/assets/e7bbd4bf-4764-4b80-8431-0b32345c3b8b" />
+  * <img width="3024" height="4032" alt="IMG_1723" src="https://github.com/user-attachments/assets/e7bbd4bf-4764-4b80-8431-0b32345c3b8b" />
 
 * **夜**: 
 
 ---
 
-    <!-- ここに画像を貼り付け -->
-身体計測画像
+## 身体計測画像
+
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="<img width="3024" height="4032" alt="260811" src="https://github.com/user-attachments/assets/245078cd-daa6-4387-b23c-a4fda6b21182" />
-" alt="alt1" style="width: 100%;">
-  <img src="<img width="4032" height="3024" alt="260811_3" src="https://github.com/user-attachments/assets/d679571d-0d8e-463f-a754-99f81c9935b0" />
-<img width="4032" height="3024" alt="260811_2" src="https://github.com/user-attachments/assets/7ee46600-0cb0-417a-9c63-bc1519d11f43" />
-<img width="4032" height="3024" alt="260811_1" src="https://github.com/user-attachments/assets/49547b8d-aef6-4643-b33d-f9a69610732d" />
-" alt="alt2" style="width: 100%;">
-<img width="4032" height="3024" alt="260811_4" src="https://github.com/user-attachments/assets/c1b11a60-e017-4862-890b-ce5af65d6af4" />
-  <img src="<img width="4032" height="3024" alt="260811_6" src="https://github.com/user-attachments/assets/e6737257-731c-457e-93de-d94f8f1877f4" />
-![260811_5](https://github.com/user-attachments/assets/95e245e2-f56c-43d7-9d38-580759daf5e4)
-" alt="alt4" style="width: 100%;">
+  <img width="3024" height="4032" alt="260811" src="https://github.com/user-attachments/assets/245078cd-daa6-4387-b23c-a4fda6b21182" />
+  <img width="4032" height="3024" alt="260811_3" src="https://github.com/user-attachments/assets/d679571d-0d8e-463f-a754-99f81c9935b0" />
+  <img width="4032" height="3024" alt="260811_2" src="https://github.com/user-attachments/assets/7ee46600-0cb0-417a-9c63-bc1519d11f43" />
+  <img width="4032" height="3024" alt="260811_1" src="https://github.com/user-attachments/assets/49547b8d-aef6-4643-b33d-f9a69610732d" />
+  <img width="4032" height="3024" alt="260811_4" src="https://github.com/user-attachments/assets/c1b11a60-e017-4862-890b-ce5af65d6af4" />
+  <img width="4032" height="3024" alt="260811_6" src="https://github.com/user-attachments/assets/e6737257-731c-457e-93de-d94f8f1877f4" />
+  <img width="3024" height="4032" alt="260811_5" src="https://github.com/user-attachments/assets/95e245e2-f56c-43d7-9d38-580759daf5e4" />
 </div>
