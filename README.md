@@ -1,4 +1,3 @@
-<img width="4032" height="3024" alt="260811" src="https://github.com/user-attachments/assets/1f8503c5-b6b7-4dc6-97bf-8be85fd49551" />
 # eat-log
 日々の食事と体調を綴る。最近だるくて運動がしづらいので、食事を見直してみる。
 
@@ -15,6 +14,7 @@
 ## 身体計測画像
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img width="4032" height="3024" alt="260811" src="https://github.com/user-attachments/assets/1f8503c5-b6b7-4dc6-97bf-8be85fd49551" />
   <img width="3024" height="4032" alt="260811" src="https://github.com/user-attachments/assets/245078cd-daa6-4387-b23c-a4fda6b21182" />
   <img width="4032" height="3024" alt="260811_3" src="https://github.com/user-attachments/assets/d679571d-0d8e-463f-a754-99f81c9935b0" />
   <img width="4032" height="3024" alt="260811_2" src="https://github.com/user-attachments/assets/7ee46600-0cb0-417a-9c63-bc1519d11f43" />
