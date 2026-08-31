@@ -12,3 +12,10 @@
 ---
 
     <!-- ここに画像を貼り付け -->
+身体計測画像
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="image1.jpg" alt="alt1" style="width: 100%;">
+  <img src="image2.jpg" alt="alt2" style="width: 100%;">
+  <img src="image3.jpg" alt="alt3" style="width: 100%;">
+  <img src="image4.jpg" alt="alt4" style="width: 100%;">
+</div>
