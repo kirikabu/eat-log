@@ -1,3 +1,4 @@
+<img width="4032" height="3024" alt="260811" src="https://github.com/user-attachments/assets/1f8503c5-b6b7-4dc6-97bf-8be85fd49551" />
 # eat-log
 日々の食事と体調を綴る。最近だるくて運動がしづらいので、食事を見直してみる。
 
@@ -14,8 +15,14 @@
     <!-- ここに画像を貼り付け -->
 身体計測画像
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="image1.jpg" alt="alt1" style="width: 100%;">
-  <img src="image2.jpg" alt="alt2" style="width: 100%;">
-  <img src="image3.jpg" alt="alt3" style="width: 100%;">
-  <img src="image4.jpg" alt="alt4" style="width: 100%;">
+  <img src="<img width="3024" height="4032" alt="260811" src="https://github.com/user-attachments/assets/245078cd-daa6-4387-b23c-a4fda6b21182" />
+" alt="alt1" style="width: 100%;">
+  <img src="<img width="4032" height="3024" alt="260811_3" src="https://github.com/user-attachments/assets/d679571d-0d8e-463f-a754-99f81c9935b0" />
+<img width="4032" height="3024" alt="260811_2" src="https://github.com/user-attachments/assets/7ee46600-0cb0-417a-9c63-bc1519d11f43" />
+<img width="4032" height="3024" alt="260811_1" src="https://github.com/user-attachments/assets/49547b8d-aef6-4643-b33d-f9a69610732d" />
+" alt="alt2" style="width: 100%;">
+<img width="4032" height="3024" alt="260811_4" src="https://github.com/user-attachments/assets/c1b11a60-e017-4862-890b-ce5af65d6af4" />
+  <img src="<img width="4032" height="3024" alt="260811_6" src="https://github.com/user-attachments/assets/e6737257-731c-457e-93de-d94f8f1877f4" />
+![260811_5](https://github.com/user-attachments/assets/95e245e2-f56c-43d7-9d38-580759daf5e4)
+" alt="alt4" style="width: 100%;">
 </div>
